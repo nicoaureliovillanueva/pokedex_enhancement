@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Pokemon
+
+  Created by Nicks Villanueva on 11/3/22.
+  
+*/
+
+/* API Error Messages */
+
+"error_alert_fetch" = "一部のポケモンを取得できませんでした。しばらくしてからもう一度お試しください。";
+"error_alert_id_not_found" = "このポケモンの詳細を開くことができませんでした。後でもう一度試してください。";
+"error_alert_unable_to_display_details" = "このポケモンを読み込めませんでした。もう一度お試しください";
+
+/* Button Title */
+
+"btn_title_retry" = "リトライ";
